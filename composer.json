@@ -1,0 +1,21 @@
+{
+    "name": "lilong/composer_demo",
+    "description": "composer demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lilong",
+            "email": "571914591@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lilong\\": "lilong"
+        }
+    }
+}
+
+
